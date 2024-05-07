@@ -1,0 +1,4 @@
+name: PrisonPickaxePlugin
+version: '1.0-SNAPSHOT'
+main: arod.prisonpickaxe.PrisonPickaxePlugin
+api-version: '1.20'

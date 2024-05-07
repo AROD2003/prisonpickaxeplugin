@@ -1,0 +1,4 @@
+name: PrisonPickaxePlugin
+version: '${project.version}'
+main: arod.prisonpickaxe.PrisonPickaxePlugin
+api-version: '1.20'
